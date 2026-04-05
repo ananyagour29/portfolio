@@ -45,7 +45,7 @@ import grm from './assets/education_logo/grm.webp';
 // Project Section Logo's
 import blog from './assets/work_logo/blog.png';
 import flix from './assets/work_logo/flix.png';
-import movierecLogo from './assets/work_logo/movie_rec.png';
+import foodreel from './assets/work_logo/foodreel.png';
 import taskremLogo from './assets/work_logo/task_rem.png';
 import npmLogo from './assets/work_logo/npm.png';
 import webverLogo from './assets/work_logo/web_dig.png';
@@ -213,13 +213,9 @@ import removebgLogo from './assets/work_logo/remove_bg.png';
   image: blog, // replace with your actual logo variable
   tags: [
     "React",
-    "Tailwind CSS",
     "Node.js",
     "Express.js",
     "MongoDB",
-    "Mongoose",
-    "JWT",
-    "REST API"
   ],
   github: "https://github.com/ananyagour29/NOTE.IT",
   webapp: "https://note-it-3kpw.vercel.app/"
@@ -234,5 +230,14 @@ import removebgLogo from './assets/work_logo/remove_bg.png';
       github: "https://github.com/ananyagour29/gourflix-react-ui",
       webapp: "https://movierouter00.netlify.app/",
     },
-  
+    {
+  id: 2, // Change the ID according to your array sequence
+  title: "FOOD@REELS- Food Reels Platform",
+  description: "FOOD@REELS is a food discovery app where users explore food items and browse food partners' profiles, while food partners can upload and showcase their dishes",
+  image: foodreel, // make sure 'flix' is imported or defined as the image variable
+  // tags: ["React JS"],
+  tags: ["React.js", "Node.js", "Express.js", "MongoDB"],
+  github: "https://github.com/ananyagour29/FOODREELS",
+  webapp: "https://portfolio29website.netlify.app/"
+}
   ];  
