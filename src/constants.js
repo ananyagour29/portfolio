@@ -238,6 +238,6 @@ import removebgLogo from './assets/work_logo/remove_bg.png';
   // tags: ["React JS"],
   tags: ["React.js", "Node.js", "Express.js", "MongoDB"],
   github: "https://github.com/ananyagour29/FOODREELS",
-  webapp: "https://portfolio29website.netlify.app/"
+  webapp: "https://foodreels-y4dm.vercel.app/"
 }
   ];  
